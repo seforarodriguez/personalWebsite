@@ -1,4 +1,5 @@
-Thanks for downloading this template!
+Modified from Template
+
 
 Template Name: Folio
 Template URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
